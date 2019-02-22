@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Kuliah\\Semester 6\\Pengembangan Aplikasi Mobile\\Praktikum\\Praktikum Week 4\\DroidCafeChallenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "E:\\Kuliah\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ardy\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\6a2cd1d388d576bfed3aa3b7ae296f8e\\res\\values-v21\\values-v21.xml",

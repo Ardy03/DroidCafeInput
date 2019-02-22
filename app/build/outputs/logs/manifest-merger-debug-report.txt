@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
+ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0093cd26e89ce4c0f822a71ce819ad29\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ddf1b9a5a773dcaa7a019483bbf6faba\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8737b1fb275db33457e51be88eac7912\AndroidManifest.xml:2:1-11:12
@@ -18,25 +18,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ardy\.gradl
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\eafec87a830403b040cb3e3105d80679\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6a2cd1d388d576bfed3aa3b7ae296f8e\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a36cfca30ef8e7192e5426fffd8970fd\AndroidManifest.xml:17:1-30:12
-INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
 	package
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:19:5-44
-		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:19:5-44
+		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
-		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:1-41:12
-		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:18:11-69
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:18:11-69
 application
-ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:21:5-39:19
+ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:21:5-39:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0093cd26e89ce4c0f822a71ce819ad29\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0093cd26e89ce4c0f822a71ce819ad29\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ddf1b9a5a773dcaa7a019483bbf6faba\AndroidManifest.xml:25:5-29:19
@@ -66,43 +66,43 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ardy\.gradle\ca
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a36cfca30ef8e7192e5426fffd8970fd\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a36cfca30ef8e7192e5426fffd8970fd\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:26:9-35
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:24:9-41
 	android:roundIcon
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:25:9-54
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:25:9-54
 	android:icon
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:23:9-43
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:23:9-43
 	android:allowBackup
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:27:9-40
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:27:9-40
 activity#com.example.android.droidcafe.MainActivity
-ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:28:9-37:20
+ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:28:9-37:20
 	android:label
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:30:13-45
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:30:13-45
 	android:theme
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:31:13-56
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:31:13-56
 	android:name
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:29:13-41
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:29:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:32:13-36:29
+ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:32:13-36:29
 action#android.intent.action.MAIN
-ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:33:17-69
+ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:33:17-69
 	android:name
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:33:25-66
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:33:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:35:17-77
+ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:35:17-77
 	android:name
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:35:27-74
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:35:27-74
 activity#com.example.android.droidcafe.OrderActivity
-ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:38:9-60
+ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:38:9-60
 	android:name
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml:38:19-48
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml:38:19-48
 uses-sdk
-INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
-INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
+INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:26.1.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0093cd26e89ce4c0f822a71ce819ad29\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:26.1.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0093cd26e89ce4c0f822a71ce819ad29\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ddf1b9a5a773dcaa7a019483bbf6faba\AndroidManifest.xml:21:5-23:78
@@ -131,18 +131,18 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ardy\.gradle\ca
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\6a2cd1d388d576bfed3aa3b7ae296f8e\AndroidManifest.xml:21:5-23:58
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a36cfca30ef8e7192e5426fffd8970fd\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a36cfca30ef8e7192e5426fffd8970fd\AndroidManifest.xml:20:5-22:41
-INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
-INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
+INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:26.1.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0093cd26e89ce4c0f822a71ce819ad29\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
-		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\Praktikum\Praktikum Week 4\DroidCafeChallenge\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
+		ADDED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Kuliah\Semester 6\Pengembangan Aplikasi Mobile\DroidCafeInput\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.1.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\0093cd26e89ce4c0f822a71ce819ad29\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ardy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\ddf1b9a5a773dcaa7a019483bbf6faba\AndroidManifest.xml:26:9-28:38
